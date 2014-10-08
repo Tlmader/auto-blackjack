@@ -1,7 +1,7 @@
 autoblackjack
 =============
 
-University of New Orleans - CSCI 1583 Fall 2013 Homework Eight – Black Jack
+University of New Orleans Software Design I Homework Eight – Blackjack
 
 An automatic Blackjack game using predefined player strategies.
 
